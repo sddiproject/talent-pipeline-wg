@@ -1,49 +1,53 @@
-_This document is intended to be a template for working groups established under SDDI, to be used as the README.md file in its repository. All items in italics are descriptions of what context should be there; it is intended to be replaced by content._
+# Talent Pipeline WG
 
-_The intention is that each WG has its own GitHub repo under the [SDDI organization](https://github.com/sddiproject)._
+Make the CS/IT pipeline visible and accessible. Anyone who has connected with any D&I or CS/IT group. 
+Connect untapped individuals with career paths and opportunities. 
+Connect to untapped, underestimated, under-resourced communities that could be involved with CS/IT. Younger generations and people who want to reskill. 
+Establish “modern” forms of communication with target audiences. (no more email marketing). Cultivate social media presence and gather influencers. 
+Get people into practical experiences in CS/IT. 
+Teach people how to progress in their chosen field. 
 
-# _Working group name_
+Mentoring/internship opportunities
+Paid and unpaid
+Full-time and part-time (variable time commitments)
+Length of time (3 months, 6 months, 1 year)
 
-_Describe the purpose of the group in no more that 4-5 sentences._
+## Goals
 
-_Goals are the distinct outcomes that is to be anticipated from the working group, serving as a method for validating activities._
+- Building relationships with D&I groups to build coalitions. 
+- Be a clearinghouse for D&I communications and internships and mentoring across the coalition.
+- Go to the individuals (find them), don’t wait for them to look for us. 
+- Gather a set of influencers to help spread/create communications.
+- Focus on North America-based companies and people.
+- Track data to ensure we’re making progress.
+- Track contacts, interviews, job offers, internships from individual perspective. Ask candidates where they heard about their job opportunities.
+- Can we build a common database to track across the coalition? Can we leverage existing data? 
+- Can we get promises from internship providers to recruit from our pool?
+- How do we match people with internships? What if they all apply and no one interviews them? 
 
-Goals of the WG are:
+## Non-goals 
 
-1. _goal 1_
-2. ...
-
-_Non-goals are things that the working group are intentionally choosing not to do, the things not expected to change due to the working groups efforts, or the subject matter areas that the working groups doesn’t want to address at this time._
-
-Non-goals of the WG are:
-
-1. _non goal 1_
-2. ...
+1. Not global.
+2. Not redoing things that other D&I groups already do.
 
 ## Deliverables
 
-_provide a list of planned deliverables, or links to the deliverables. A best practice is to have a directory named [deliverables](deliverables) in the repo for hosting and managing deliverables._
+- Clearinghouse for D&I communications across the coalition.
+- Host events for students and reskilling adults to learn how to apply for mentoring.
+- Host virtual career fairs for internships aimed at D&I, community college, reskilling-focused adults.
+- Develop materials to prepare students to work at internships. 
+- Get a list of people who run orgs that have mentoring opportunities and each sends an ambassador to be part of our group.
+- Set up a Wordpress site for gathering opportunities and communications. Connect to sddiproject.org.
+- Mentorships
+- Scholarships
 
 ## Communication
 
 This WG communicates on the following channels:
 
-- _link to mailing list_
-- _slack channel_
-- _any other channels_
-...
+- [wg-talent@lists.sddiproject.org](https://lists.sddiproject.org/g/wg-talent)
+- [#wg-talent at slack.sddiproject.org](https://slack.sddiproject.org)
 
 ## Meetings
 
-See the [SDDI public calendar](https://lists.sddiproject.org/calendar). This WG meets _meeting day/time and frequency_. 
-
-_provide the conference call details_
-
-## In-person meetings
-
-_list if applicable, or skip if not_
-
-## Meeting notes
-
-Meeting notes, recordings, and any presentations made during WG meetings are available [here](meetings).
-
+See the [SDDI public calendar](https://lists.sddiproject.org/calendar).
